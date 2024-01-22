@@ -1,2 +1,4 @@
 # Most-Common-Words
-Python program to find and output the most common words in a .txt file.
+Python function to isolate and return the most common words from a provided .txt file.
+
+This makes use of the python Counter class and most_common() method.
